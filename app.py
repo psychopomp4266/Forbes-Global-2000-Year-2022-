@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 import numpy as np
-
+import openpyxl
 
 # Load the dataset
 data = pd.read_excel('Forbes Global 2000 (Year 2022).xlsx')
